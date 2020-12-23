@@ -7,8 +7,10 @@
 ## Game Sample:
 ![](Game.gif)
 
-## Componenets Used:
-
+## Components Used:
+* Waypoints
+* Particle Systems
+* Wave Configurations
 
 ## Release History
 
